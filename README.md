@@ -1,3 +1,5 @@
+#bee run 命令是监控 beego 的项目，通过 fsnotify监控文件系统
+#----------------------------------------------------------
 # File system notifications for Go
 
 [![GoDoc](https://godoc.org/github.com/howeyc/fsnotify?status.png)](http://godoc.org/github.com/howeyc/fsnotify)
